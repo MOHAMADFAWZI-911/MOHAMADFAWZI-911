@@ -2,7 +2,7 @@
 
 ### DevOps Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOHAMADFAWZI-911" alt="MOHAMADFAWZI-911" /></a> </p>
+
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1FMLlsswli0qqYva9tHHwpKDMTQL_vBAd/view?usp=drive_link](https://drive.google.com/file/d/1FMLlsswli0qqYva9tHHwpKDMTQL_vBAd/view?usp=drive_link)**
 
@@ -20,5 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMADFAWZI-911&show_icons=true&locale=en" alt="MOHAMADFAWZI-911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMADFAWZI-911&" alt="MOHAMADFAWZI-911" /></p>
 
