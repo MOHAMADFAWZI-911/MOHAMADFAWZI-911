@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamad Fawzi Gomaa Mohamad
+# Hi 👋, I'm Mohamad Fawzi
 
 ### DevOps Engineer
 
